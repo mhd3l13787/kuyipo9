@@ -1,0 +1,6 @@
+
+--moniker="YOUR_VALIDATOR_MONIKER" \
+--chain-id=lava-testnet-1 \
+--commission-rate=0.1 \
+--commission-max-rate=0.2 \
+-
